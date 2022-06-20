@@ -273,14 +273,6 @@ span{
 	letter-spacing:0;
 }
 
-.delete-item{
-	background-color: #EE6A59;
-	border-radius: 50%;
-	border: 2px;
-	height: 5px;
-	width: 5px;
-}
-
 .add-new-item-container{
 	background-color:rgba(234.81250405311584, 234.81250405311584, 234.81250405311584, 1);
 	width:1076px;
