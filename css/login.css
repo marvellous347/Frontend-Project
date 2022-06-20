@@ -7,7 +7,7 @@
 }
 
 .bg-img{
-    background-image: url("/img/subscriptions_bg.png");
+    background-image: url("/img/abstract3.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -36,7 +36,7 @@
     width: 370px;
     transform: translate(-50%, -50%);
     background:rgba(75, 75, 75, 0.145);
-    border: 1px solid #fff;
+    border: 1px solid #222;
     backdrop-filter: blur(3px);
     box-shadow: 0 0 6px 0 rgba(29, 29, 29, 0.203);
 }
